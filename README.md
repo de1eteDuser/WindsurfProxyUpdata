@@ -1,4 +1,4 @@
-CURRENT_VERSION=0.1.2
+CURRENT_VERSION=0.1.1
 
 # WindsurfProxy
 
